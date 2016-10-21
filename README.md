@@ -12,4 +12,8 @@ Check out the live Todo application [here](https://todoit-ernie-jamison.herokuap
 
 * jQuery allows users to toggle items as complete or not.
 
+* Postgresql is used for the database.
+
+* TDD is utilized with RSpec and FactoryGirl.
+
 ![alt tag](app/assets/images/todo.png)
